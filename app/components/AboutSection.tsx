@@ -71,7 +71,7 @@ const AboutSection = () => {
             and have honed my skills working on various Identity and Branding Projects. I also have a background in traditional art
             a background that has helped me develope an expressive design language.
 
-            I also have a passion for mathematics and technology, this passion and my creative background have created a deep curiosity and
+            I also have a passion for mathematics and technology, this passion and my creative background have created a deep curiosity
             for programming. I have a deep interest for machine learning and back end developement.
           </p>
           <div className="flex flex-row justify-start mt-8">
