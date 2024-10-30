@@ -62,16 +62,16 @@ const AboutSection = () => {
   return (
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-        <Image src="/images/about-image.png" width={500} height={500} alt="" />
+        <Image src="/images/IMG_0132.jpg" width={500} height={500} alt="" />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             Hello! My name is Anthony Barrera and I am a creative, My interests range from Graphic Design to 
-            programming, and art. Over the years I have gained a deep knowledge of the Adobe Creative Cloud suit of products
+            programming, and art. Over the years I have gained professional level knowledge for the Adobe Creative Cloud suit of products
             and have honed my skills working on various Identity and Branding Projects. I also have a background in traditional art
             a background that has helped me develope an expressive design language.
 
-            I also have a passion for mathematics and technology, this passion and my creative background have created a deep curiosity
+            I also have a passion for mathematics and technology, this passion and my creative background have nurtured a curiosity
             for programming. I have a deep interest for machine learning and back end developement.
           </p>
           <div className="flex flex-row justify-start mt-8">
